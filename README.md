@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eleanor Ting</h1>
 <h3 align="center">Taking Computer Science in Bioinfomatics</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leann13t&label=Profile%20views&color=0e75b6&style=flat" alt="leann13t" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leann13t" alt="leann13t" /></a> </p>
 
 - 🔭 I’m currently working on **my website project-Ewa-Workspace**
@@ -27,7 +25,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leann13t&show_icons=true&locale=en" alt="leann13t" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leann13t&" alt="leann13t" /></p>
-
 
 <!---
 Leann13t/Leann13t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
