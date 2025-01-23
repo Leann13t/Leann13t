@@ -8,7 +8,8 @@
 - 🌱 I’m currently learning **C++,Web Development**
 
 - 📌Member of [TedxUTM](https://www.instagram.com/tedxutm_/) [Airost](https://www.instagram.com/utmairost/)
-
+- 
+👨‍💻 All of my projects are available at [Leann's Portfolio](https://leann13t.github.io/eleanor-eportfolio.github.io/)
 - 📫 Reach me at **eleanorth1814@gmail.com**
 
 - ⚡ Fun fact **I like cats**
