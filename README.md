@@ -24,14 +24,13 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science** student with
 - 💻 **Programming:** Python, C++, HTML, CSS, JavaScript
 - 📊 **Data Science:** Statistics, Machine Learning, Data Visualization
 - 🤖 **AI & Robotics:** Logic Design, Automation
-- 🎙 **Public Speaking & Hosting:** Experienced Emcee
 - 📈 **Entrepreneurship:** Dropshipping & Business Analytics
 
 - 🔭 I’m currently working on [Ewa-Workspace](https://github.com/Leann13t/ewa-workspace)
 
 - 🌱 I’m currently learning **C++, Web Development**
 
-- 📌Member of [TedxUTM](https://www.instagram.com/tedxutm_/) [Airost](https://www.instagram.com/utmairost/)
+- 📌Member of [TedxUTM](https://www.instagram.com/tedxutm_/) & [Airost](https://www.instagram.com/utmairost/)
 
 - 👨‍💻 All of my projects are available at [Leann's Portfolio](https://leann13t.github.io/eleanor-eportfolio.github.io/)
 
