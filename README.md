@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science** student with
 ---
 
 ## 🏆 My Interests & Skills
-- 💻 **Programming:** Python, C++, HTML, CSS, JavaScript
+- 💻 **Programming:** C++, HTML, CSS, JavaScript
 - 📊 **Data Science:** Statistics, Machine Learning, Data Visualization
 - 🤖 **AI & Robotics:** Logic Design, Automation
 - 📈 **Entrepreneurship:** Dropshipping & Business Analytics
